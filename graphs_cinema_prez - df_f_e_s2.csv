@@ -1,0 +1,16 @@
+categorie,pays film,nombre,pourcentage
+films,français,327,"59,35%"
+,américains,98,"17,79%"
+,européens,82,"14,88%"
+,autres,44,"7,99%"
+,total,551,-
+séances,français,-,"57,60%"
+,américains,-,"26,50%"
+,européens,-,"11,10%"
+,autres,-,"4,90%"
+,total,-,"100,00%"
+entrées,français,-,"49,40%"
+,américains,-,"32,30%"
+,européens,-,"12,40%"
+,autres,-,"6,00%"
+,total,-,"100,00%"
